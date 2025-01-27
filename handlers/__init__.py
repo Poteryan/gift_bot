@@ -1,0 +1,5 @@
+from .admin import register_admin_handlers
+from .common import register_common_handlers
+from .gift_selection import register_gift_selection_handlers
+from .history import register_history_handlers
+from .subscription import register_subscription_handlers

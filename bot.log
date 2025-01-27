@@ -1,0 +1,62 @@
+2025-01-27 03:04:34,360 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8064001301:AAHJRuXuJkdHBDssZXmomzvzVNfQsSj6mZM/getMe "HTTP/1.1 200 OK"
+2025-01-27 03:04:34,362 - telegram.ext.Application - INFO - Application started
+2025-01-27 03:04:34,363 - telegram.ext.Application - WARNING - Fetching updates got a asyncio.CancelledError. Ignoring as this task may onlybe closed via `Application.stop`.
+2025-01-27 03:15:39,198 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task cancelling name='Application:8064001301:update_fetcher' coro=<Application._update_fetcher() done, defined at D:\Yarik\Work\Pythonn\Bots\gift_bot\.venv\Lib\site-packages\telegram\ext\_application.py:1086> wait_for=<Future cancelled> cb=[gather.<locals>._done_callback() at C:\Users\pccpp\AppData\Local\Programs\Python\Python312\Lib\asyncio\tasks.py:767]>
+2025-01-27 03:15:51,905 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8064001301:AAHJRuXuJkdHBDssZXmomzvzVNfQsSj6mZM/getMe "HTTP/1.1 200 OK"
+2025-01-27 03:15:51,908 - telegram.ext.Application - INFO - Application started
+2025-01-27 03:15:51,908 - telegram.ext.Application - WARNING - Fetching updates got a asyncio.CancelledError. Ignoring as this task may onlybe closed via `Application.stop`.
+2025-01-27 03:17:10,123 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task cancelling name='Application:8064001301:update_fetcher' coro=<Application._update_fetcher() done, defined at D:\Yarik\Work\Pythonn\Bots\gift_bot\.venv\Lib\site-packages\telegram\ext\_application.py:1086> wait_for=<Future cancelled> cb=[gather.<locals>._done_callback() at C:\Users\pccpp\AppData\Local\Programs\Python\Python312\Lib\asyncio\tasks.py:767]>
+2025-01-27 03:18:11,423 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2025-01-27 03:18:11,424 - sqlalchemy.engine.Engine - INFO - PRAGMA main.table_info("users")
+2025-01-27 03:18:11,424 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2025-01-27 03:18:11,430 - sqlalchemy.engine.Engine - INFO - PRAGMA main.table_info("gifts")
+2025-01-27 03:18:11,430 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2025-01-27 03:18:11,432 - sqlalchemy.engine.Engine - INFO - PRAGMA main.table_info("selections")
+2025-01-27 03:18:11,432 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2025-01-27 03:18:11,433 - sqlalchemy.engine.Engine - INFO - PRAGMA main.table_info("selection_gifts")
+2025-01-27 03:18:11,434 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2025-01-27 03:18:11,435 - sqlalchemy.engine.Engine - INFO - COMMIT
+2025-01-27 03:18:12,648 - main - INFO - Starting bot...
+2025-01-27 03:18:12,994 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8064001301:AAHJRuXuJkdHBDssZXmomzvzVNfQsSj6mZM/getMe "HTTP/1.1 200 OK"
+2025-01-27 03:18:12,996 - telegram.ext.Application - INFO - Application started
+2025-01-27 03:18:12,996 - telegram.ext.Application - WARNING - Fetching updates got a asyncio.CancelledError. Ignoring as this task may onlybe closed via `Application.stop`.
+2025-01-27 04:01:40,126 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2025-01-27 04:01:40,127 - sqlalchemy.engine.Engine - INFO - PRAGMA main.table_info("users")
+2025-01-27 04:01:40,127 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2025-01-27 04:01:40,129 - sqlalchemy.engine.Engine - INFO - PRAGMA main.table_info("gifts")
+2025-01-27 04:01:40,130 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2025-01-27 04:01:40,132 - sqlalchemy.engine.Engine - INFO - PRAGMA main.table_info("selections")
+2025-01-27 04:01:40,132 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2025-01-27 04:01:40,134 - sqlalchemy.engine.Engine - INFO - PRAGMA main.table_info("selection_gifts")
+2025-01-27 04:01:40,134 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2025-01-27 04:01:40,136 - sqlalchemy.engine.Engine - INFO - COMMIT
+2025-01-27 04:01:41,733 - main - INFO - Registering handlers...
+2025-01-27 04:01:41,783 - main - INFO - Starting bot...
+2025-01-27 04:01:42,164 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8064001301:AAHJRuXuJkdHBDssZXmomzvzVNfQsSj6mZM/getMe "HTTP/1.1 200 OK"
+2025-01-27 04:01:42,166 - telegram.ext.Application - INFO - Application started
+2025-01-27 04:01:42,166 - telegram.ext.Application - WARNING - Fetching updates got a asyncio.CancelledError. Ignoring as this task may onlybe closed via `Application.stop`.
+2025-01-27 04:12:34,014 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2025-01-27 04:12:34,016 - sqlalchemy.engine.Engine - INFO - PRAGMA main.table_info("users")
+2025-01-27 04:12:34,016 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2025-01-27 04:12:34,019 - sqlalchemy.engine.Engine - INFO - PRAGMA main.table_info("gifts")
+2025-01-27 04:12:34,019 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2025-01-27 04:12:34,021 - sqlalchemy.engine.Engine - INFO - PRAGMA main.table_info("selections")
+2025-01-27 04:12:34,022 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2025-01-27 04:12:34,024 - sqlalchemy.engine.Engine - INFO - PRAGMA main.table_info("selection_gifts")
+2025-01-27 04:12:34,025 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2025-01-27 04:12:34,027 - sqlalchemy.engine.Engine - INFO - COMMIT
+2025-01-27 04:12:35,684 - main - INFO - Registering handlers...
+2025-01-27 04:12:35,734 - main - INFO - Starting bot...
+2025-01-27 04:12:36,156 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8064001301:AAHJRuXuJkdHBDssZXmomzvzVNfQsSj6mZM/getMe "HTTP/1.1 200 OK"
+2025-01-27 04:12:36,157 - telegram.ext.Application - INFO - Application started
+2025-01-27 04:12:36,158 - telegram.ext.Application - WARNING - Fetching updates got a asyncio.CancelledError. Ignoring as this task may onlybe closed via `Application.stop`.
+2025-01-27 04:14:01,573 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task cancelling name='Application:8064001301:update_fetcher' coro=<Application._update_fetcher() done, defined at D:\Yarik\Work\Pythonn\Bots\gift_bot\.venv\Lib\site-packages\telegram\ext\_application.py:1086> wait_for=<Future cancelled> cb=[gather.<locals>._done_callback() at C:\Users\pccpp\AppData\Local\Programs\Python\Python312\Lib\asyncio\tasks.py:767]>
+2025-01-27 04:14:09,921 - root - INFO - Starting bot...
+2025-01-27 04:14:10,235 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8064001301:AAHJRuXuJkdHBDssZXmomzvzVNfQsSj6mZM/getMe "HTTP/1.1 200 OK"
+2025-01-27 04:14:10,236 - telegram.ext.Application - INFO - Application started
+2025-01-27 04:14:10,504 - telegram.ext.Application - WARNING - Fetching updates got a asyncio.CancelledError. Ignoring as this task may onlybe closed via `Application.stop`.
+2025-01-27 04:14:56,383 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task cancelling name='Application:8064001301:update_fetcher' coro=<Application._update_fetcher() done, defined at D:\Yarik\Work\Pythonn\Bots\gift_bot\.venv\Lib\site-packages\telegram\ext\_application.py:1086> wait_for=<Future cancelled> cb=[gather.<locals>._done_callback() at C:\Users\pccpp\AppData\Local\Programs\Python\Python312\Lib\asyncio\tasks.py:767]>
